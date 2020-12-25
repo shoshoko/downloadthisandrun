@@ -403,19 +403,4 @@ t.goto(210,-100)
 
 
 turtle.bgcolor("black")
-t.pensize(1)
-t.goto(0, -200)
-t.pencolor("white")
-t.left(90)
-for i in range (10):
-    t.pendown()
-    time.sleep(0.25)
-    t.forward(10)
-    t.penup()
-    time.sleep(0.25)
-    t.forward(10)
-t.penup()
-
-time.sleep(2)
-
 
