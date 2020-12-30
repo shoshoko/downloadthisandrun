@@ -20,3 +20,4 @@
 よろしくおねがいします
 
 
+たぶんこれ>>https://www.javadrive.jp/python/ini/index1.html
